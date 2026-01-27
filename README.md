@@ -9,36 +9,39 @@ All projects are organized into **three difficulty levels**, starting from absol
 
 ## 📂 Project Levels
 
-### 🔹 Level 0 — Very Basic
-Projects focused on:
-- JavaScript syntax
-- DOM selection
-- Basic events
-- Simple logic
+### 🔹 Level 0:
+Projects:
+- Character Count
+- Color Changer
+- Digital Clock
+- Lightbox
 
 These are ideal for absolute beginners.
 
 ---
 
-### 🔹 Level 1 — Beginner
-Projects focused on:
-- Multiple DOM interactions
-- Conditional logic
-- Functions and reusability
-- Small real-world features
+### 🔹 Level 1⭐
+Projects:
+- Guess the Number
+- Note App
+- Todo List
 
 Good for building confidence in JavaScript.
 
 ---
 
-### 🔹 Level 2 — Beginner to Intermediate
-Projects focused on:
-- Slightly complex logic
-- Better structure
-- Local storage / state handling
-- More realistic use cases
+### 🔹 Level 2⭐⭐
+Projects:
+- Rock Paper Scissors (RPS)
+
 
 These projects help bridge the gap toward intermediate JavaScript.
+
+---
+
+### 🔹 Level 3⭐⭐⭐
+Projects:
+- Weather App
 
 ---
 
