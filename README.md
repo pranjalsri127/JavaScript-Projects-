@@ -9,18 +9,19 @@ All projects are organized into **three difficulty levels**, starting from absol
 
 ## 📂 Project Levels
 
-### 🔹 Level 0:
+### 🔹 Level 1:⭐
 Projects:
 - Character Count
 - Color Changer
 - Digital Clock
 - Lightbox
+- Age calculator-https://github.com/pranjalsri127/JavaScript-Projects-/tree/main/ageCalculator
 
 These are ideal for absolute beginners.
 
 ---
 
-### 🔹 Level 1⭐
+### 🔹 Level 2⭐⭐
 Projects:
 - Guess the Number
 - Note App
@@ -30,7 +31,7 @@ Good for building confidence in JavaScript.
 
 ---
 
-### 🔹 Level 2⭐⭐
+### 🔹 Level 3⭐⭐⭐
 Projects:
 - Rock Paper Scissors (RPS)
 
@@ -39,11 +40,13 @@ These projects help bridge the gap toward intermediate JavaScript.
 
 ---
 
-### 🔹 Level 3⭐⭐⭐
+### 🔹 Level 4⭐⭐⭐⭐
 Projects:
 - Weather App
 
 ---
+
+### 🔹Level 5⭐⭐⭐⭐⭐
 
 ## 🛠️ Tech Stack
 - HTML
