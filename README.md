@@ -11,7 +11,7 @@ All projects are organized into **three difficulty levels**, starting from absol
 
 ### 🔹 Level 1:⭐
 Projects:
-- Character Count
+- Character Count-https://github.com/pranjalsri127/JavaScript-Projects-/tree/main/character%20count
 - Color Changer
 - Digital Clock
 - Lightbox
