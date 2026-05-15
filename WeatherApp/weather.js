@@ -5,7 +5,7 @@ const heading=document.getElementById('heading');
 const icon=document.querySelector('.icon')
 const temp=document.querySelector('.temp')
 const desc=document.querySelector('.desc')
-const apiKey="cd7bde3d11a35066c9c90010ca1e0f9d"
+
 
 
 
