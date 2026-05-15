@@ -12,9 +12,7 @@ All projects are organized into **three difficulty levels**, starting from absol
 ### 🔹 Level 1:⭐
 Projects:
 - Character Count-https://github.com/pranjalsri127/JavaScript-Projects-/tree/main/character%20count
-- Color Changer
-- Digital Clock
-- Lightbox
+- Color Changer-https://github.com/pranjalsri127/JavaScript-Projects-/tree/main/colorChanger
 - Age calculator-https://github.com/pranjalsri127/JavaScript-Projects-/tree/main/ageCalculator
 
 These are ideal for absolute beginners.
@@ -42,7 +40,7 @@ These projects help bridge the gap toward intermediate JavaScript.
 
 ### 🔹 Level 4⭐⭐⭐⭐
 Projects:
-- Weather App
+- Weather App-https://github.com/pranjalsri127/JavaScript-Projects-/tree/main/WeatherApp
 
 ---
 
