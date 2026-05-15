@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+span{
+    display:block;
+}
+.canva {
+margin-left: 400px;
+    
+}
+.button{
+height:100px;
+width: 100px;
+border-radius: solid black 2px;
+display: inline-block;
+margin: 100px;
+}
+#grey{
+    background: grey;
+}
+#white{
+    background:orange;
+}
+#blue{
+    background: blue;
+}
+#yellow{
+    background: yellow;
+}
