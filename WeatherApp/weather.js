@@ -20,7 +20,6 @@ search.addEventListener("click",function(event){
 })
 
 function showWeather(text){
-    const apiKey="cd7bde3d11a35066c9c90010ca1e0f9d"
     let url= `https://api.openweathermap.org/data/2.5/weather?q=${text}&appid=cd7bde3d11a35066c9c90010ca1e0f9d`;
     fetch(url)
     .then((res)=>res.json())
